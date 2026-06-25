@@ -1,6 +1,6 @@
 # Hi, I'm Aryan 👋
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aryan-prateek-mohan-444a3b32b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 
 ## About Me
@@ -64,11 +64,11 @@ To join a Security Operations Center as a **Tier 1 SOC Analyst**, leveraging han
 
 ---
 
-## Certifications
+Certifications
 
 <div>
-  <img src="https://img.shields.io/badge/-Pre--Security-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cybersecurity_101-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-5XKHDPPVX1.pdf"><img src="https://img.shields.io/badge/-Cyber_Security_101-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-2TOYUCK0DS.pdf"><img src="https://img.shields.io/badge/-Pre--Security-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/-SOC_Level_1_(In_Progress)-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
   <img src="https://img.shields.io/badge/-IBM_SkillsBuild_Cybersecurity-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
   <img src="https://img.shields.io/badge/-Fortinet_FCA-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
